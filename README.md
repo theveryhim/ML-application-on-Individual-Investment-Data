@@ -11,9 +11,8 @@ The goal of this project and competition is to introduce you to the process of s
 | F1 Score          | 0.9237                  | 3.57e-05                 |
 | AUPRC             | 0.9388                  | 1.51e-05                 |
 
-
-<p align="center">
-    <img src="CM.jpg" alt="Descriptive Alt Text" class="fit-width-image">
+<p align="left">
+    <img src="CM.jpg" alt="Descriptive Alt Text" width="400" >
 </p>
 
 - Simplifying the model
