@@ -17,5 +17,5 @@ The goal of this project and competition is to introduce you to the process of s
 
 - Simplifying the model
 - Competetion(train and predict on test data)
-  - the *test.csv* and *test.py* are data(without labels) and standalone(process and train) 
+  - the *test_data_1.csv* and *test.py* are data(without labels) and standalone(process and train) 
 - Ensemble learning
